@@ -1,0 +1,16 @@
+nick    -    21000
+Test    -    3400
+testt    -    1200
+n    -    800
+GUEST    -    6900
+n    -    8500
+nook    -    4300
+nook    -    200
+poon    -    1500
+mix    -    1100
+DG     -    1300
+n    -    3100
+Arm    -    9700
+Nick    -    5900
+GUEST    -    6100
+GUEST    -    14100
